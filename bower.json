@@ -1,6 +1,6 @@
 {
   "name": "chisele",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "authors": [
     "bruno_tripoloni <bruno.tripoloni@gmail.com>"
   ],
@@ -17,7 +17,8 @@
     "bower_components"
   ],
   "dependencies": {
-    "polymer": "polymer/polymer#0.4.0",
-    "microajax": "~0.3.0"
+    "polymer": "polymer/polymer#latest",
+    "paper-elements": "Polymer/paper-elements#latest",
+    "microajax": "microajax#latest"
   }
 }
