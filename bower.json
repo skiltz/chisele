@@ -18,7 +18,6 @@
   ],
   "dependencies": {
     "polymer": "polymer/polymer#latest",
-    "paper-elements": "Polymer/paper-elements#latest",
     "microajax": "microajax#latest"
   }
 }
